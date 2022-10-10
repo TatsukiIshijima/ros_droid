@@ -1,3 +1,5 @@
 TALKER_NODE = 'talker'
 LISTENER_NODE = 'listener'
 DETECTOR_NODE = 'detector'
+ROSSERIAL_NODE = 'arduino/rosserial'
+CONTROLLER_NODE = 'controller'
